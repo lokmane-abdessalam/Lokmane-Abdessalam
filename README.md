@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/Lokmane-Abdessalam/count.svg" />
 </p> -->
 
-<h1 align="center">Hi 👋, I'm LOKMANE Abdessalam</h1>
+<h1 align="center">Hi 👋, I'm Lokmane ABDESSALAM</h1>
 
 
 <p align="center">
